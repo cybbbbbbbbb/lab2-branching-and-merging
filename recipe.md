@@ -1,5 +1,6 @@
 # Chocolate Raspberry Celebration Cake
 # Chocolate Caramel Celebration Cake
+# Chocolate Cheese Celebration Cake
 
 This recipe makes a three-layer celebration cake with a caramel filling between each layer and vanilla frosting on the outside.
 
